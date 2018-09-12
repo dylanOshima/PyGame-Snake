@@ -3,7 +3,7 @@ A game made with PyGame Zero for demo during the UoE Societies Fair
 
 # How to run
 1. Download each of the zipped files and unzip them
-2. Download Mu
+2. [Download Mu](https://codewith.mu/en/download)
 3. Open Mu
 4. Change Mu’s mode to PyGame Zero
 5. Select open file
